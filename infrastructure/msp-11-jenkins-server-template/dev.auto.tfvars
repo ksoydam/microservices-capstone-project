@@ -1,4 +1,4 @@
-mykey = "soydam-devops-3"
+mykey = ""
 ami = "ami-01cc34ab2709337aa"
 region = "us-east-1"
 instance_type = "t3a.medium"
